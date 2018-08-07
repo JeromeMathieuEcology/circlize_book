@@ -83,7 +83,7 @@ with using basic functionalities in **circlize** package to help you to get
 a basic idea of how the package works.
 
 First let's generate some random data. There needs a character vector to
-represent categories, a numeric vector of x values and a vectoe of y values.
+represent categories, a numeric vector of x values and a vector of y values.
 
 ```{r}
 set.seed(999)
